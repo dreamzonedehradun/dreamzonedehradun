@@ -19,7 +19,7 @@
 
     <h2>📢 Enroll Today</h2>
     <p>📍 Join the top-rated <strong>Animation & VFX Course in Dehradun</strong> and start your creative journey!</p>
-    <p>🔗 <a href="Your Website Link">Learn More Here</a></p>
+    <p>🔗 <a href="https://craftedu.in/craft-courses/craft-creative/animation-vfx-courses-in-dehradun/">Learn More Here</a></p>
 
     <p>💬 Tag a friend who wants to become an animator!</p>
 
